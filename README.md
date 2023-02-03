@@ -11,6 +11,7 @@
 - 👨🏻‍💻 I'm making Apps in MIT App Inventor and Flutter.<br>
 <hr>
 
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emmaprofemx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmaprofemx" alt="emmanuelruiz5307" /></a> </p>
 <hr>

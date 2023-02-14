@@ -7,7 +7,7 @@
 - 🧑🏻‍🏫 Experience teaching programming to different students.<br>
 - 🗣️ English and Spanish.<br>
 - 👥 There's no "I" in "Team".<br>
-- 📷 Love photography and videography.<br>
+- 📷 Love photography and video.<br>
 - 👨🏻‍💻 I'm making Apps in MIT App Inventor and Flutter.<br>
 <hr>
 

@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I'm studying software engineering.<br>
 - 🔭 I’m currently working on many projects and in my business. <br>
-- 🌱 I’m currently learning Flutter Web and C#  .  <br>
+- 🌱 I’m currently learning Flutter , Web , Desing Patterns , Assembly.  <br>
 - 🧑🏻‍🏫 Experience teaching programming to different students.<br>
 - 🗣️ English and Spanish.<br>
 - 👥 There's no "I" in "Team".<br>

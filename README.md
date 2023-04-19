@@ -21,7 +21,7 @@
  <a href="[https://www.youtube.com/@bastndev](https://www.youtube.com/channel/UC0ynUu5Wu3HhvOYAqkcBTZw)" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
 <a href="https://www.tiktok.com/@emmaprofemx?lang=es" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
  <a href="https://www.instagram.com/emmaprofemx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
- <a href="www.linkedin.com/in/emmaprofemx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
+ <a href="https://www.linkedin.com/in/emmaprofemx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
 
  </div>
 

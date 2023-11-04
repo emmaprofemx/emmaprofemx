@@ -5,12 +5,11 @@
 - 🔭 I’m currently working on many projects and in my business. <br>
 - 🌱 I’m currently learning Flutter , Web , Desing Patterns , Assembly.  <br>
 - 🧠 I'm constantly learning various technologies. <br>
-- 📱  FrontEnd and Backend mobile developer in Flutter. <br>
+- 📱👨🏻‍💻  FrontEnd and Backend mobile developer in Flutter. <br>
 - 🧑🏻‍🏫 Experience teaching programming to different students.<br>
 - 🗣️ English and Spanish.<br>
 - 👥 There's no "I" in "Team".<br>
 - 📷 Love photography and video.<br>
-- 👨🏻‍💻 I'm making Apps in MIT App Inventor and Flutter.<br>
 <hr>
 <!--Skill And More Information--> 
 <div align="center">  

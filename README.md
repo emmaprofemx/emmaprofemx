@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I'm software engineering.<br>
 - 🔭 I’m currently working on many projects and in my business. <br>
-- 🌱 I’m currently learning Flutter , Web , Desing Patterns , how to create an API.  <br>
+- 🌱 I’m currently learning Flutter , Web , Desing Patterns , how to create an API and SOAP.  <br>
 - 🧠 I'm constantly learning various technologies. <br>
 - 📱👨🏻‍💻  FrontEnd and Backend mobile developer in Flutter. <br>
 - 🧑🏻‍🏫 Experience teaching programming to different students.<br>

@@ -7,7 +7,7 @@
 - 🧠 I'm constantly learning various technologies. <br>
 - 📱👨🏻‍💻  FrontEnd and Backend mobile developer in Flutter. <br>
 - 🧑🏻‍🏫 Experience teaching programming to different students.<br>
-- 🎨 Designer UX/UI 
+- 🎨 Designer UX/UI. 
 - 🗣️ English and Spanish.<br>
 - 👥 There's no "I" in "Team".<br>
 - 📷 Love photography and video.<br>

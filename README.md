@@ -36,6 +36,9 @@
 <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="canva" width="40" height="40"/> </a> 
 </p>
 
+<i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+
+
 
 
 

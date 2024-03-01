@@ -2,7 +2,7 @@
 <h3 align="center">A younger guy that like programming and make many projects :) </h3>
 
 - 👨🏻‍💻 I'm software engineering.<br>
-- 🔭 I’m currently working on many projects and in my business.. <br>
+- 🔭 I’m currently working on many projects and in my business. <br>
 - 🌱 I’m currently learning Flutter , Web , Desing Patterns , SOAP Web Service with Java Eclipse 🌘  <br>
 - 🧠 I'm constantly learning various technologies. <br>
 - 📱👨🏻‍💻  FrontEnd and Backend mobile developer in Flutter. <br>

@@ -10,6 +10,7 @@
 - 🧑🏻‍🏫 Experience teaching programming to different students.<br>
 - 🎨 Designer UX/UI.
 - 🗣️ English and Spanish.<br>
+- 🕵️‍♂️ Investigator. <br>
 - 👥 There's no "I" in "Team".<br>
 - 📷 Love photography and video.<br>
 <hr>

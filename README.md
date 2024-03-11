@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Flutter , Web , Desing Patterns , SOAP Web Service with Java Eclipse 🌘  <br>
 - 🧠 I'm constantly learning various technologies. <br>
 - 📱👨🏻‍💻  FrontEnd and Backend mobile developer in Flutter. <br>
+- ☕ Java BackEnd Developer. <br>
 - 🧑🏻‍🏫 Experience teaching programming to different students.<br>
 - 🎨 Designer UX/UI.
 - 🗣️ English and Spanish.<br>

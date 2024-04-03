@@ -1,3 +1,5 @@
+![GitHub Header](google_banner.png)
+
 <h1 align="center">Hello World!<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="30px">, I'm Emmanuel Ruiz</h1>
 <h3 align="center">A younger guy that like programming and make many projects :) </h3>
 

@@ -34,7 +34,7 @@
 
 
 <hr>
-<h1 align="left">Technologies</h1>
+<h1 align="left">Technologiees</h1>
 <h2 align="left">Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse">

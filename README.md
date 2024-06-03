@@ -14,7 +14,7 @@
 - 🗣️ English and Spanish.<br>
 - 🕵️‍♂️ Investigator. <br>
 - 👥 There's no "I" in "Team".<br>
-- 📷 Love photography and video.<br>
+- 📷 Love photography and video..<br>
 <hr>
 <!--Skill And More Information--> 
 <div align="center">  
